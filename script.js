@@ -1,1 +1,1 @@
-let yourArray=['apple',42,true,'banana',false];
+let yourArray=['hello', 42,true,null,'world'];
